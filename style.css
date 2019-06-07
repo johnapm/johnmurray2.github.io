@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "Rowland"
-	src: local(~/downloads/Rowland.otf)
+	src: url(~/downloads/Rowland.otf)
 }
 p {
 	font-family: Rowland;
