@@ -2,3 +2,7 @@
 	font-family: "Rowland"
 	src: local(~/downloads/Rowland.otf)
 }
+p {
+	font-family: Rowland;
+	font-size = 200%;
+}
